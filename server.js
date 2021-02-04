@@ -16,6 +16,7 @@ const server = http.createServer((req, res) => {
 
 
 //forma de fazer usando o IF e chamando variaveis individualmente
+
     //     if(req.url == '/') {
 //         res.end('<h1>Home</h1>')
 //     }
